@@ -1,3 +1,0 @@
-DAMAS ONLINE 2.0
-Offline: abra index.html. Escolha máquina ou dois jogadores locais.
-Online: instale Node.js 18+, abra CMD nesta pasta, execute npm start e acesse http://localhost:3000. Para jogar de redes diferentes, publique esta pasta em hospedagem Node (comando npm start). Não há dependências externas. O cronômetro é apenas local. Salas online permanecem na memória do servidor. Placar e salvamento da IA ficam no navegador. O modo mestre usa busca limitada a cerca de 850 ms por jogada; não é invencível. Empate por acordo, sem detecção automática de repetição. 
